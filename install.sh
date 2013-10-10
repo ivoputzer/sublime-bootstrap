@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/ivoputzer/sublime-bootstrap.git "$HOME/.sublime-bootstrap"
+git clone https://github.com/ivoputzer/sublime-bootstrap.git "$HOME/.sublime-bootstrap" &> /dev/null
 
 
 # Installing ST3
