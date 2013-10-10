@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"git_binary": "/usr/local/bin/git",
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"Emmet",
+		"GitGutter",
+		"LESS",
+		"Package Control",
+		"Puppet",
+		"rsub",
+		"SublimeLinter",
+		"Theme - Flatland"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
